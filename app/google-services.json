@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241360905076",
+    "project_id": "messageandchat-cdd96",
+    "storage_bucket": "messageandchat-cdd96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241360905076:android:9d5f706c4ea77d15b0c221",
+        "android_client_info": {
+          "package_name": "com.example.messageandchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XJP5725ELAMxtXbyPokJsdM6eA_jm8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
