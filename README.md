@@ -40,11 +40,7 @@ Copy code
 - Firebase account (https://firebase.google.com/)  
 - Git installed  
 
-2️⃣ **Setup Instructions**
 
-```bash
-git clone https://github.com/leena-yaqub/MessageAndChat.git
-cd MessageAndChat
 <img width="282" height="594" alt="Screenshot 2025-08-27 063945" src="https://github.com/user-attachments/assets/7a6bc950-5278-444f-bbd0-ffa78906ee3b" />
 <img width="295" height="613" alt="Screenshot 2025-08-27 063910" src="https://github.com/user-attachments/assets/8231d603-1aa8-42f8-93ef-82fd140aef19" />
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/90104e43-d797-4860-8976-3dfca79fdf43" />
